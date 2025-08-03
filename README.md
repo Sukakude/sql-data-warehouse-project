@@ -13,16 +13,16 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 ## Project Objectives
 <ul>
-  <li>*Data Sources*: Import data from two sources systems provided as CSV files.</li>
-  <li>*Data Quality*: Cleanse & resolve data quality issues prior to analysis.</li>
-  <li>*Integration*: Merge both sources into a single data model that can be used for analytical queries.</li>
-  <li>*Scope*: Focus is on the latest data only (No historization needed) </li>
-  <li>*Analytics*: Develop SQL-based analytics to deliver detailed insights into: 
+  <li><b>Data Sources</b>: Import data from two sources systems provided as CSV files.</li>
+  <li><b>Data Quality</b>: Cleanse & resolve data quality issues prior to analysis.</li>
+  <li><b>Integration</b>: Merge both sources into a single data model that can be used for analytical queries.</li>
+  <li><b>Scope</b>: Focus is on the latest data only (No historization needed) </li>
+  <li><b>Analytics</b>: Develop SQL-based analytics to deliver detailed insights into: 
       <ul>
         <li>Customer Behaviour</li>
         <li>Product Performance</li>
         <li>Sales Trend</li>
       </ul>
   </li>
-  <li>*Documentation*: Provide clear documentation of the data model.</li>
+  <li><b>Documentation</b>: Provide clear documentation of the data model.</li>
 </ul>
